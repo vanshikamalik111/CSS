@@ -4,6 +4,7 @@ a{color:orange; text-decoration: none;}
    #box1{background-color: rgba(255,0,0,0.5); display:block; height: 200px; width: 200px;display: inline;}
     #box2{background-color: rgba(0,255,0,0.5); display:block;height: 200px; width: 200px;display: inline;}
     #box3{background-color: rgba(0,0,255,0.5); display:block;height: 200px; width: 200px;display: inline;}
-    footer{background-color: black; color: aliceblue;}
+    footer{background-color: black; color: aliceblue;text-align: center;}
+    #content{height: 400px;}
    
  
