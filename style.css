@@ -1,0 +1,5 @@
+div{height:100px;width:100px;border-color: brown;border-width: 5px;margin-top: 25px;}
+#amazon{background-color: rgba(0,0,255,0.5); border-color: black; border-width: 5px;}
+#main{background-color: rgba(255,0,0,0.5);border-color: black; border-width: 5px;height:100px;}
+#footer{background-color: rgba(0,255,0,0.5);border-color: black; border-width: 5px;}
+main{height:100px}
